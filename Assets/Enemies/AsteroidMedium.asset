@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbfd0225fab74064e9e11daad3cce44c, type: 3}
+  m_Name: AsteroidMedium
+  m_EditorClassIdentifier: 
+  EnemyPrefab: {fileID: 1822345149752838, guid: ada09c9f7c7c75a4bac49ddb52a33c97, type: 3}
+  MaximumHP: 10
+  MinMoveSpeed: 10
+  MaxMoveSpeed: 15
+  MinRotationSpeed: 20
+  MaxRotationSpeed: 35
+  Damage: 7
+  VictoryPoint: 7
